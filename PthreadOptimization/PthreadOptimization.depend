@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683988800 source:f:\ggg\pthreadoptimization\main.cpp
+	<iostream>
+	<pthread.h>
+	<windows.h>
+

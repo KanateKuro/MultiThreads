@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AVXOptimization", "AVXOptimization.vcxproj", "{5CD7CED6-BCBB-49BC-9E40-EE4B56FF17F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CD7CED6-BCBB-49BC-9E40-EE4B56FF17F6}.Debug|x64.ActiveCfg = Debug|x64
+		{5CD7CED6-BCBB-49BC-9E40-EE4B56FF17F6}.Debug|x64.Build.0 = Debug|x64
+		{5CD7CED6-BCBB-49BC-9E40-EE4B56FF17F6}.Debug|x86.ActiveCfg = Debug|Win32
+		{5CD7CED6-BCBB-49BC-9E40-EE4B56FF17F6}.Debug|x86.Build.0 = Debug|Win32
+		{5CD7CED6-BCBB-49BC-9E40-EE4B56FF17F6}.Release|x64.ActiveCfg = Release|x64
+		{5CD7CED6-BCBB-49BC-9E40-EE4B56FF17F6}.Release|x64.Build.0 = Release|x64
+		{5CD7CED6-BCBB-49BC-9E40-EE4B56FF17F6}.Release|x86.ActiveCfg = Release|Win32
+		{5CD7CED6-BCBB-49BC-9E40-EE4B56FF17F6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {757BDDFD-288B-4A70-94DD-90E5B1C070D9}
+	EndGlobalSection
+EndGlobal

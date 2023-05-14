@@ -1,0 +1,4 @@
+﻿  SSE并行优化.cpp
+C:\Users\lenovo\source\repos\SSEOptimization\SSE并行优化.cpp(58,25): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+C:\Users\lenovo\source\repos\SSEOptimization\SSE并行优化.cpp(59,25): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+  SSEOptimization.vcxproj -> C:\Users\lenovo\source\repos\SSEOptimization\Debug\SSEOptimization.exe

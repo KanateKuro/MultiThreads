@@ -1,0 +1,4 @@
+﻿  基本串行矩阵乘法.cpp
+C:\Users\lenovo\source\repos\serialmulti\基本串行矩阵乘法.cpp(49,25): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+C:\Users\lenovo\source\repos\serialmulti\基本串行矩阵乘法.cpp(50,25): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+  serialmulti.vcxproj -> C:\Users\lenovo\source\repos\serialmulti\Debug\serialmulti.exe

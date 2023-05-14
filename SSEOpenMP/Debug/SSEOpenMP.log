@@ -1,0 +1,4 @@
+﻿  SSEOpenMP.cpp
+C:\Users\lenovo\source\repos\SSEOpenMP\SSEOpenMP.cpp(61,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\lenovo\source\repos\SSEOpenMP\SSEOpenMP.cpp(62,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  SSEOpenMP.vcxproj -> C:\Users\lenovo\source\repos\SSEOpenMP\Debug\SSEOpenMP.exe

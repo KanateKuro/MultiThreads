@@ -1,0 +1,4 @@
+﻿  AVX并行优化.cpp
+C:\Users\lenovo\source\repos\AVXOptimization\AVX并行优化.cpp(64,25): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+C:\Users\lenovo\source\repos\AVXOptimization\AVX并行优化.cpp(65,25): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+  AVXOptimization.vcxproj -> C:\Users\lenovo\source\repos\AVXOptimization\Debug\AVXOptimization.exe

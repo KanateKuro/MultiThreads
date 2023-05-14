@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684047636 source:f:\ggg\ssepthread\main.cpp
+	<iostream>
+	<immintrin.h>
+	<pthread.h>
+	<Windows.h>
+
